@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.6",
+        "thenetworg/oauth2-azure": "^2.1",
+        "decomplexity/sendoauth2": "^1.0"
+    }
+}
